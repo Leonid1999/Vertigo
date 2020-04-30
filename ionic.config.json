@@ -1,0 +1,7 @@
+{
+  "name": "VertigoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
